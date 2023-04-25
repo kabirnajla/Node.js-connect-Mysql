@@ -115,7 +115,6 @@ app.listen(3000, () => {
 });
 
 
-
 // INSERT INTO users VALUES (NULL, "2", "2")
 
 // SELECT * FROM users WHERE id = 1
